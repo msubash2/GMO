@@ -1,0 +1,240 @@
+City,State,Population
+San Bernardino,CA,185401
+Pasadena,TX,141674
+Chesapeake,VA,199184
+Columbia,SC,116278
+Augusta,GA,195182
+Rockford,IL,150115
+Louisville,KY,256231
+Little Rock,AR,183133
+Mesquite,TX,124523
+Stockton,CA,243771
+Raleigh,NC,276093
+Coral Springs,FL,117549
+Omaha,NE,390007
+Vancouver,WA,143560
+Boise City,ID,185787
+Pueblo,CO,102121
+Corona,CA,124966
+Inglewood,CA,112580
+Winston-Salem,NC,185776
+Santa Clara,CA,102361
+Columbus,GA,185781
+Denver,CO,554636
+Chandler,AZ,176581
+Chattanooga,TN,155554
+Eugene,OR,137893
+Aurora,IL,142990
+Columbus,OH,711470
+Jackson,MS,184256
+Norwalk,CA,103298
+Richmond,VA,197790
+San Antonio,TX,1144646
+Yonkers,NY,196086
+Escondido,CA,133559
+Santa Ana,CA,337977
+Fort Collins,CO,118652
+Washington,DC,572059
+Santa Clarita,CA,151088
+Erie,PA,103717
+Salem,OR,136924
+Stamford,CT,117083
+Atlanta,GA,416474
+Berkeley,CA,102743
+Evansville,IN,121582
+Nashville,TN,545524
+Oxnard,CA,170358
+Oakland,CA,399484
+Dallas,TX,1188580
+McAllen,TX,106414
+Amarillo,TX,173627
+Waterbury,CT,107271
+Birmingham,AL,242820
+Worcester,MA,172648
+Green Bay,WI,102313
+Houston,TX,1953631
+Simi Valley,CA,111351
+Waco,TX,113726
+Hollywood,FL,139357
+New York,NY,8008278
+Elizabeth,NJ,120568
+Rancho Cucamonga,CA,127743
+Pembroke Pines,FL,137427
+Henderson,NV,175381
+Abilene,TX,115930
+West Valley City,UT,108896
+Flint,MI,124943
+Lubbock,TX,199564
+Allentown,PA,106632
+Portsmouth,VA,100565
+Hialeah,FL,226419
+Savannah,GA,131510
+Minneapolis,MN,382618
+Tucson,AZ,486699
+North Las Vegas,NV,115488
+Paterson,NJ,149222
+Norfolk,VA,234403
+Bellevue,WA,109569
+Thousand Oaks,CA,117005
+Grand Rapids,MI,197800
+Fullerton,CA,126003
+Joliet,IL,106221
+Westminster,CO,100940
+Greensboro,NC,223891
+Torrance,CA,137946
+Fremont,CA,203413
+Hayward,CA,140030
+Beaumont,TX,113866
+Alexandria,VA,128283
+Brownsville,TX,139722
+Boston,MA,589141
+Tallahassee,FL,150624
+Tacoma,WA,193556
+Orange,CA,128821
+Syracuse,NY,147306
+Colorado Springs,CO,360890
+Wichita Falls,TX,104197
+Riverside,CA,255166
+Athens,GA,100266
+Ann Arbor,MI,114024
+Lexington-Fayette,KY,260512
+Sterling Heights,MI,124471
+Palmdale,CA,116670
+St. Paul,MN,287151
+El Paso,TX,563662
+Peoria,IL,112936
+Springfield,IL,111454
+Huntsville,AL,158216
+Naperville,IL,128358
+Moreno Valley,CA,142381
+Toledo,OH,313619
+Huntington Beach,CA,189594
+Shreveport,LA,200145
+Kansas City,MO,441545
+Pittsburgh,PA,334563
+Providence,RI,173618
+Detroit,MI,951270
+Livonia,MI,100545
+Chula Vista,CA,173556
+Baltimore,MD,651154
+Baton Rouge,LA,227818
+Pomona,CA,149473
+Lafayette,LA,110257
+Oceanside,CA,161029
+Aurora,CO,276393
+Mesa,AZ,396375
+New Orleans,LA,484674
+Garden Grove,CA,165196
+Gilbert town,AZ,109697
+San Francisco,CA,776733
+Jacksonville,FL,735617
+Vallejo,CA,116760
+Salinas,CA,151060
+Lancaster,CA,118718
+Cape Coral,FL,102286
+Sioux Falls,SD,123975
+New Haven,CT,123626
+Overland Park,KS,149080
+Clarksville,TN,103455
+Milwaukee,WI,596974
+Des Moines,IA,198682
+Akron,OH,217074
+Long Beach,CA,461522
+Albuquerque,NM,448607
+Plano,TX,222030
+Topeka,KS,122377
+Kansas City,KS,146866
+Laredo,TX,176576
+Arvada,CO,102153
+Bakersfield,CA,247057
+Bridgeport,CT,139529
+Daly City,CA,103621
+Mobile,AL,198915
+Austin,TX,656562
+Clearwater,FL,108787
+Springfield,MA,152082
+Las Vegas,NV,478434
+Anaheim,CA,328014
+Fort Lauderdale,FL,152397
+Rochester,NY,219773
+South Bend,IN,107789
+Jersey City,NJ,240055
+Carrollton,TX,109576
+Honolulu CDP,HI,371657
+Fort Worth,TX,534694
+Anchorage,AK,260283
+Salt Lake City,UT,181743
+Virginia Beach,VA,425257
+Lansing,MI,119128
+Buffalo,NY,292648
+Orlando,FL,185951
+Charlotte,NC,540828
+Indianapolis,IN,781870
+Durham,NC,187035
+Independence,MO,113288
+Miami,FL,362470
+Provo,UT,105166
+Tempe,AZ,158625
+Hampton,VA,146437
+Montgomery,AL,201568
+Lowell,MA,105167
+Pasadena,CA,133936
+Fayetteville,NC,121015
+Newport News,VA,180150
+Cambridge,MA,101355
+Lakewood,CO,144126
+Reno,NV,180480
+Downey,CA,107323
+Chicago,IL,2896016
+Portland,OR,529121
+Corpus Christi,TX,277454
+Concord,CA,121780
+Wichita,KS,344284
+Warren,MI,138247
+Seattle,WA,563374
+Lincoln,NE,225581
+San Diego,CA,1223400
+Philadelphia,PA,1517550
+Fresno,CA,427652
+Newark,NJ,273546
+St. Louis,MO,348189
+Memphis,TN,650100
+Cincinnati,OH,331285
+Glendale,AZ,218812
+Dayton,OH,166179
+Sacramento,CA,407018
+Tulsa,OK,393049
+Hartford,CT,121578
+Manchester,NH,107006
+Irvine,CA,143072
+Garland,TX,215768
+Peoria,AZ,108364
+Knoxville,TN,173890
+Gary,IN,102746
+Ontario,CA,158007
+Sunnyvale,CA,131760
+Costa Mesa,CA,108724
+Irving,TX,191615
+Springfield,MO,151580
+Cedar Rapids,IA,120758
+West Covina,CA,105080
+Fontana,CA,128929
+Arlington,TX,332969
+El Monte,CA,115965
+Phoenix,AZ,1321045
+Fort Wayne,IN,205727
+Cleveland,OH,478403
+Spokane,WA,195629
+Scottsdale,AZ,202705
+San Jose,CA,894943
+Santa Rosa,CA,147595
+Ventura,CA,100916
+Los Angeles,CA,3694820
+Burbank,CA,100316
+Modesto,CA,188856
+Madison,WI,208054
+Tampa,FL,303447
+St. Petersburg,FL,248232
+Oklahoma City,OK,506132
+Grand Prairie,TX,127427
+Glendale,CA,194973

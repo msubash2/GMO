@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.DataLayer\\GMO.API.DeveloperTest.DataLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\GMO.API.DeveloperTest.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\GMO.API.DeveloperTest.Contracts.csproj",
+        "projectName": "GMO.API.DeveloperTest.Contracts",
+        "projectPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\GMO.API.DeveloperTest.Contracts.csproj",
+        "packagesPath": "C:\\Users\\subas\\.nuget\\packages\\",
+        "outputPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\subas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.DataLayer\\GMO.API.DeveloperTest.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.DataLayer\\GMO.API.DeveloperTest.DataLayer.csproj",
+        "projectName": "GMO.API.DeveloperTest.DataLayer",
+        "projectPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.DataLayer\\GMO.API.DeveloperTest.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\subas\\.nuget\\packages\\",
+        "outputPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\subas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\GMO.API.DeveloperTest.Contracts.csproj": {
+                "projectPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Contracts\\GMO.API.DeveloperTest.Contracts.csproj"
+              },
+              "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\GMO.API.DeveloperTest.Helpers.csproj": {
+                "projectPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\GMO.API.DeveloperTest.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[12.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\GMO.API.DeveloperTest.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\GMO.API.DeveloperTest.Helpers.csproj",
+        "projectName": "GMO.API.DeveloperTest.Helpers",
+        "projectPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\GMO.API.DeveloperTest.Helpers.csproj",
+        "packagesPath": "C:\\Users\\subas\\.nuget\\packages\\",
+        "outputPath": "C:\\WUTemp\\GMO\\GMO\\GMO.API.DeveloperTest.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\subas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
