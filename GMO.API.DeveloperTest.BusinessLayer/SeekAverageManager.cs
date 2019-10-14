@@ -43,7 +43,7 @@ namespace GMO.API.DeveloperTest.BusinessLayer
             {
                 sum += input[i];
             }
-            return sum / input.Length;
+            return Convert.ToInt32(Math.Abs(Math.Round(sum / input.Length)));
         }
     }
 }
