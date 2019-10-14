@@ -37,7 +37,7 @@ namespace GMO.API.DeveloperTest.BusinessLayer
         /// <returns></returns>
         private int GetAverage(int[] input)
         {
-            int sum = 0;
+            decimal sum = 0;
             int i = 0;
             for(i = 0; i < input.Length; i++)
             {
