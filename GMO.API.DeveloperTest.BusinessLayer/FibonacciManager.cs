@@ -12,11 +12,11 @@
             decimal nextNum;
             decimal i;
 
-            for (i = 2; i < index; ++i)
+            for (i = 0; i <= index; ++i)
             {
                 nextNum = firstNum + secondNum;
                 firstNum = secondNum;
-                secondNum = nextNum;
+                secondNum = (i == 0 ? 0 : nextNum);
             }
             return secondNum;
         }
