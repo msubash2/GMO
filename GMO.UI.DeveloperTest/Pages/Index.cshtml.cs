@@ -45,6 +45,7 @@ namespace GMO.UI.DeveloperTest.Pages
             StateSort = sortOrder == "State" ? "State_Desc" : "State";
             PopulationSort = sortOrder == "Population" ? "Population_Desc" : "Population";
             pageIndex = pageIndex == null ? 1 : pageIndex;
+            CurrentSort = sortOrder;
 
             IQueryable<CityInfo> ItemList = GetCityInfo().AsQueryable();
 
